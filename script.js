@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const formAbsen = document.getElementById('formAbsen');
   const inputNim = document.getElementById('nim');
   const inputNama = document.getElementById('nama');
-  const daftarHadir = document.getElementById('daftarHadir');
+  const daftarHadir = document.getElementById('daftarHadiraaaa');
 
   // 2. Tambahkan 'event listener' ke formulir
   // Ini akan menjalankan fungsi ketika formulir di-submit (tombol 'Tambah' diklik)
